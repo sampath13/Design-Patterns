@@ -1,15 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{F392F179-9C69-4CEC-B972-2E0CD6569A43}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational Patterns", "Creational Patterns", "{B9202006-4210-4109-8261-8E6075E417F1}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural Patterns", "Structural Patterns", "{197DD497-3E10-4277-8E9D-2EDAC553553D}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral patterns", "Behavioral patterns", "{0C6C7FFC-0856-4939-874B-9F2D77BDA38C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{69065BDB-39AA-458D-B69D-673641952EB3}"
 EndProject
@@ -29,5 +23,8 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{69065BDB-39AA-458D-B69D-673641952EB3} = {F392F179-9C69-4CEC-B972-2E0CD6569A43}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84A78F1-3526-413B-9BE0-341AFCDF2215}
 	EndGlobalSection
 EndGlobal
